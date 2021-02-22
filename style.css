@@ -1,0 +1,33 @@
+.links{
+    border-radius: 10px;
+    
+     }
+.links:hover{
+    background-color: yellow;
+}
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: purple;
+color: white;
+text-align: center;
+}
+.shopheader{
+background: #9c51b6;
+padding:0px;
+margin:0px;
+}
+.fish1{
+padding:0px;
+margin:0px;  
+}
+body{
+padding:0px;
+margin:0px;
+}
+div{  
+padding:0px;
+margin:0px;
+}
